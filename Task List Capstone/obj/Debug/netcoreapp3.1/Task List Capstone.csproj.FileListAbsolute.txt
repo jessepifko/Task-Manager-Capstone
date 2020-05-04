@@ -1,0 +1,38 @@
+C:\Users\Jesse\source\repos\Task List Capstone\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.exe
+C:\Users\Jesse\source\repos\Task List Capstone\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.deps.json
+C:\Users\Jesse\source\repos\Task List Capstone\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.runtimeconfig.json
+C:\Users\Jesse\source\repos\Task List Capstone\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.runtimeconfig.dev.json
+C:\Users\Jesse\source\repos\Task List Capstone\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.dll
+C:\Users\Jesse\source\repos\Task List Capstone\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.pdb
+C:\Users\Jesse\source\repos\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.csprojAssemblyReference.cache
+C:\Users\Jesse\source\repos\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\source\repos\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.AssemblyInfoInputs.cache
+C:\Users\Jesse\source\repos\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.AssemblyInfo.cs
+C:\Users\Jesse\source\repos\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.dll
+C:\Users\Jesse\source\repos\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.pdb
+C:\Users\Jesse\source\repos\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.genruntimeconfig.cache
+C:\Users\objec\Downloads\Task List Capstone\Task List Capstone\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.exe
+C:\Users\objec\Downloads\Task List Capstone\Task List Capstone\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.deps.json
+C:\Users\objec\Downloads\Task List Capstone\Task List Capstone\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.runtimeconfig.json
+C:\Users\objec\Downloads\Task List Capstone\Task List Capstone\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.runtimeconfig.dev.json
+C:\Users\objec\Downloads\Task List Capstone\Task List Capstone\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.dll
+C:\Users\objec\Downloads\Task List Capstone\Task List Capstone\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.pdb
+C:\Users\objec\Downloads\Task List Capstone\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.csproj.CoreCompileInputs.cache
+C:\Users\objec\Downloads\Task List Capstone\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.AssemblyInfoInputs.cache
+C:\Users\objec\Downloads\Task List Capstone\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.AssemblyInfo.cs
+C:\Users\objec\Downloads\Task List Capstone\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.dll
+C:\Users\objec\Downloads\Task List Capstone\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.pdb
+C:\Users\objec\Downloads\Task List Capstone\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.genruntimeconfig.cache
+C:\Users\Jesse\Downloads\Task List Capstone (2)\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.exe
+C:\Users\Jesse\Downloads\Task List Capstone (2)\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.deps.json
+C:\Users\Jesse\Downloads\Task List Capstone (2)\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.runtimeconfig.json
+C:\Users\Jesse\Downloads\Task List Capstone (2)\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.runtimeconfig.dev.json
+C:\Users\Jesse\Downloads\Task List Capstone (2)\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.dll
+C:\Users\Jesse\Downloads\Task List Capstone (2)\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.pdb
+C:\Users\Jesse\Downloads\Task List Capstone (2)\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.csprojAssemblyReference.cache
+C:\Users\Jesse\Downloads\Task List Capstone (2)\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Downloads\Task List Capstone (2)\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.AssemblyInfoInputs.cache
+C:\Users\Jesse\Downloads\Task List Capstone (2)\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.AssemblyInfo.cs
+C:\Users\Jesse\Downloads\Task List Capstone (2)\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.dll
+C:\Users\Jesse\Downloads\Task List Capstone (2)\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.pdb
+C:\Users\Jesse\Downloads\Task List Capstone (2)\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.genruntimeconfig.cache
